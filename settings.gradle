@@ -1,0 +1,2 @@
+rootProject.name = "Mi Musica-DS3"
+include ':app'
